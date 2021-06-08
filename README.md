@@ -1,4 +1,4 @@
-# Supporting Information for Andreas Bueckle's dissertation
+# Supporting Information for our Frontiers in VR Paper
 Thank you for visiting this repo with Supporting Information (SI) for our publication "Optimizing Performance and Satisfaction in Matching and Movement Tasks in Virtual Reality with Interventions Using the Data Visualization Literacy Framework". 
 
 ## SI materials
