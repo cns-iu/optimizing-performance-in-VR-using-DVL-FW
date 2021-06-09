@@ -6,7 +6,6 @@ Thank you for visiting this repo with Supporting Information (SI) for our public
 * Additionally, you will find:
     * The [survey](https://github.com/cns-iu/optimizing-performance-in-VR-using-DVL-FW/tree/main/rui_vr_reflective) for the RUI VR Reflective user study (user study 2).
     * The [survey](https://github.com/cns-iu/optimizing-performance-in-VR-using-DVL-FW/tree/main/luddy_vr_reflective) for the Luddy VR Reflective User study (user study 3).
-    * Please note that the SI for the RUI user study (user study 1) is hosted in [another repo](https://github.com/cns-iu/rui-tissue-registration).
 
 ## Video demos of the three setups used in the RUI VR study:
 1. 2D Desktop: https://iu.mediaspace.kaltura.com/media/t/1_kz5c7l9m 
