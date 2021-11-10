@@ -14,6 +14,9 @@ To ensure maximum reproducibility of our data analysis, we made anonymized versi
 
 *Bueckle A, Buehling K, Shih PC, Börner K. 3D virtual reality vs. 2D desktop registration user interface comparison. PLOS ONE. 2021;16(10):e0258103. doi: [10.1371/journal.pone.0258103](https://doi.org/10.1371/journal.pone.0258103).*
 
+## IRB materials
+The study information sheets (SIS) for the RUI VR and Luddy VR studies can be found in this folder: [/irb](/irb)
+
 ## Video demos of the three setups used in the RUI VR study:
 1. 2D Desktop: https://iu.mediaspace.kaltura.com/media/t/1_kz5c7l9m 
 2. VR Tabletop: https://iu.mediaspace.kaltura.com/media/t/1_yd8dxogy
