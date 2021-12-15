@@ -1,4 +1,4 @@
-# Optimizing Performance and Satisfaction in Matching and Movement Tasks in Virtual Reality with Interventions Using the Data Q2 Visualization Literacy Framework
+# Optimizing Performance and Satisfaction in Matching and Movement Tasks in Virtual Reality with Interventions Using the Data Visualization Literacy Framework
 Thank you for visiting this repo with Supplementary Material for our publication "Optimizing Performance and Satisfaction in Matching and Movement Tasks in Virtual Reality with Interventions Using the Data Visualization Literacy Framework". 
 
 ## Overview
